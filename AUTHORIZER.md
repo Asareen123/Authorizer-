@@ -11,8 +11,7 @@ theme: gaia
 ## Steps :
 1. Host Authorizer instance and get client id and Authorizer URL after logging in .
 
-2. On opening the code , goto terminal and get to the src file. :  cd my-react-app
-cd src.
+2. After cloning the code , goto terminal and get to the src file. : cd src.
 
 ---
 3. Now first install via:
